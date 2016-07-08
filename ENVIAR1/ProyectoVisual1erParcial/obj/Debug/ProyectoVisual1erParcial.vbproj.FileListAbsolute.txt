@@ -51,3 +51,9 @@ C:\Users\ESTUDIANTE\Desktop\Sustentacion\mbaque\ENVIAR1\ProyectoVisual1erParcial
 C:\Users\ESTUDIANTE\Desktop\Sustentacion\mbaque\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.exe
 C:\Users\ESTUDIANTE\Desktop\Sustentacion\mbaque\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.xml
 C:\Users\ESTUDIANTE\Desktop\Sustentacion\mbaque\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.pdb
+C:\Users\ESTUDIANTE\Desktop\Sustentacion\mbaque\ENVIAR1\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe
+C:\Users\ESTUDIANTE\Desktop\Sustentacion\mbaque\ENVIAR1\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.pdb
+C:\Users\ESTUDIANTE\Desktop\Sustentacion\mbaque\ENVIAR1\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.xml
+C:\Users\ESTUDIANTE\Desktop\Sustentacion\mbaque\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.vbprojResolveAssemblyReference.cache
+C:\Users\ESTUDIANTE\Desktop\Sustentacion\mbaque\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.Resources.resources
+C:\Users\ESTUDIANTE\Desktop\Sustentacion\mbaque\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.vbproj.GenerateResource.Cache

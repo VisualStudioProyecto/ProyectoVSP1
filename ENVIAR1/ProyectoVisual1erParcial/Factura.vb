@@ -153,6 +153,16 @@ Public Class Factura
             _devolucionDinero = value
         End Set
     End Property
+
+    Private _pagaIva As String
+    Public Property PagaIva() As String
+        Get
+            Return _pagaIva
+        End Get
+        Set(ByVal value As String)
+            _pagaIva = value
+        End Set
+    End Property
     Sub New(facturaNodo As XmlNode)
 
         For Each facturas As XmlNode In facturaNodo.ChildNodes
@@ -204,6 +214,8 @@ Public Class Factura
                         Me._totalPagar = CDbl(fact.InnerText)
                     Case "devolucion"
                         Me._devolucionDinero = CDbl(fact.InnerText)
+                        'Case "pagaIva"
+                        '    Me._pagaIva = fact.InnerText
                 End Select
             Next
         Next

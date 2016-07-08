@@ -1,4 +1,4 @@
-<categorias>
+﻿<categorias>
 	<categoria name="Narrativas Ecuatorianas">
 		<libro>
 			<titulo>Marianela</titulo>
@@ -7,6 +7,7 @@
 			<editorial>Libresa</editorial>
 			<genero>romantico</genero>
 			<precio>5.00</precio>
+			<pagaIva>0</pagaIva>
 		</libro>
 		<libro>
 			<titulo>Cumanda</titulo>
@@ -15,6 +16,7 @@
 			<editorial>Libresa</editorial>
 			<genero>Historico</genero>
 			<precio>5.30</precio>
+			<pagaIva>1</pagaIva>
 		</libro>
 		<libro>
 			<titulo>Juyungo</titulo>
@@ -23,6 +25,7 @@
 			<editorial>Libresa</editorial>
 			<genero>Tragedia</genero>
 			<precio>4.00</precio>
+			<pagaIva>0</pagaIva>
 		</libro>	
 	</categoria>
 	<categoria name="Clasicos">
@@ -33,6 +36,7 @@
 			<editorial>Edimat</editorial>
 			<genero>Novela costumbrista, Satira</genero>
 			<precio>4.90</precio>
+			<pagaIva>0</pagaIva>
 		</libro>
 		<libro>
 			<titulo>Moby Dick</titulo>
@@ -41,6 +45,7 @@
 			<editorial>Estudio Didactico</editorial>
 			<genero>Novela de aventuras, Epica, Historia de mar</genero>
 			<precio>4.60</precio>
+			<pagaIva>0</pagaIva>
 		</libro>
 		<libro>
 			<titulo>La Dama de las Camelias</titulo>
@@ -49,6 +54,7 @@
 			<editorial>Edimat</editorial>
 			<genero>Novela Historica, Romantica</genero>
 			<precio>4.50</precio>
+			<pagaIva>1</pagaIva>
 		</libro>
 	</categoria>
 	<categoria name="Jovenes Lectores">
@@ -59,6 +65,7 @@
 			<editorial>Planeta</editorial>
 			<genero>Novela, Superacion</genero>
 			<precio>13.50</precio>
+			<pagaIva>1</pagaIva>
 		</libro>
 		<libro>
 			<titulo>Y las Montañas Hablaron</titulo>
@@ -67,6 +74,7 @@
 			<editorial>Salamandra</editorial>
 			<genero>Ficción histórica, Drama</genero>
 			<precio>23.50</precio>
+			<pagaIva>1</pagaIva>
 		</libro>
 		<libro>
 			<titulo>El Murmullo de las Abejas</titulo>
@@ -75,6 +83,7 @@
 			<editorial>Lumen</editorial>
 			<genero>Novela</genero>
 			<precio>24.50</precio>
+			<pagaIva>0</pagaIva>
 		</libro>
 	</categoria>
 </categorias>

@@ -10,7 +10,7 @@ Module Module1
     ' Ojo, estas rutas yo las puse porque cambian en cada PC que se trabaje.
     ' No olvides volver a poner las tuyas para que puedas probar (las dejé como comentarios arriba).
     ' P.D.: Te las abrevié un poco, pero no te preocupes que sí funcionan.
-    Dim route As String = "C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR1\"
+    Dim route As String = "C:\Users\ESTUDIANTE\Desktop\Sustentacion\mbaque\"
     Dim path As String = route + "libreria.xml"
     Dim pathCategoria As String = route + "categorias.xml"
     Dim pathUsuario As String = route + "usuarios.xml"
@@ -38,6 +38,7 @@ Module Module1
     Dim nomLibro As String
     Dim codigoISBN As String
     Dim valor As Double
+    Dim pagaIva As Integer
 
 
     Dim nombreCilente As String
@@ -61,36 +62,25 @@ Module Module1
     Dim opcionVendedor As Integer
     Dim fac As Factura
 
+    'Tema 2: Agregar una propiedad a los artículos para saber si paga IVA o no y considerarlo para la factura. Si en el XML no 
+    '    tiene ese campo, entonces tome por defecto que si paga IVA. Modificar algunos productos del XML para probar la 
+    '    funcionalidad.
+
     Sub Main()
 
         xmlDoc.Load(path)
         libreria = xmlDoc.GetElementsByTagName("facturas") 'Dim libreria As
-
-        'factura.ImprimirFactura()
 
         xmlDocCategorias = New XmlDocument
         xmlDocCategorias.Load(pathCategoria)
 
         libra = New XmlDocument
         libra.Load(path) '                                                                           LIBRA
-        'categorias = xmlDoc.GetElementsByTagName("categorias")
-        'categoria = New Categoria(categorias.Item(0))
 
-        'fac = New Factura()
-
-        'factura.ImprimirFactura()
-        'Console.ReadLine()
         factura = New Factura(libreria.Item(0))
-        'fac.ImprimirFactura()
 
-        'ormaPagos()
         Vendedor()
 
-
-
-        'salir()
-
-        'Console.ReadLine()
         nada = Console.ReadLine
 
         Console.ReadLine()
@@ -137,7 +127,6 @@ Module Module1
                     Case "provincia"
                         provinciaB = nodoFactura.InnerText
                     Case "encabezadoFactura"
-                        'For Each encabezadoFactura As XmlNode In nodoFactura.ChildNodes
                         For Each nodoEncabezadoFactura As XmlNode In nodoFactura.ChildNodes
                             Select Case nodoEncabezadoFactura.Name
                                 Case "cliente"
@@ -148,7 +137,6 @@ Module Module1
                                     direccionClienteB = nodoEncabezadoFactura.InnerText
                             End Select
                         Next
-                        'Next
 
                     Case "tipoPago"
                         tipoPagoB = nodoFactura.InnerText
@@ -272,7 +260,6 @@ Module Module1
 
     Sub ComprovarLibro(nombreLibro As String)
         facturaNum = CInt(factura.NumeroFactura)
-        'Dim facturas As XmlElement = xmlDoc.CreateElement("facturas")
         facturaNum = facturaNum + 1
         Dim listaCategorias As XmlNodeList = xmlDocCategorias.GetElementsByTagName("categoria")
         Dim flag As Boolean = False
@@ -286,13 +273,21 @@ Module Module1
                             codigoISBN = atributo.InnerText
                         Case "precio"
                             valor = atributo.InnerText
+                        Case "pagaIva"
+                            pagaIva = atributo.InnerText
                     End Select
                 Next
+
+
+
                 If nomLibro = nombreLibro Then
-                    'arregloDetalle.Add(nomLibro, codigoISBN, valor, cantidadCliente, precioTotalImp)
+
+
 
                     If (provincia = "Esmeraldas" Or provincia = "Manabi" Or provincia = "esmeraldas" Or provincia = "manabi") Then 'en caso de mal ingreso
                         iva = 0.12
+
+                        iva = VerificarSiPagaIva(pagaIva)
                         If opcionPrincipal = "1" Then
                             formaPago = 0.01
                             tipoPago = "Targeta de Credito"
@@ -306,25 +301,26 @@ Module Module1
                         Guardar(iva, formaPago, tipoPago)
 
                     Else
-                        iva = 0.14
-                        If opcionPrincipal = "1" Then
-                            formaPago = 0.01
-                            tipoPago = "Targeta de Credito"
-                        ElseIf opcionPrincipal = "2" Then
-                            formaPago = 0.00
-                            tipoPago = "Dinero Efectivo"
-                        ElseIf opcionPrincipal = "3" Then
-                            formaPago = 0.04
-                            tipoPago = "Dinero Electronico"
-                        End If
-                        Guardar(iva, formaPago, tipoPago)
 
+                        iva = 0.14
+                        iva = VerificarSiPagaIva(pagaIva)
+                        If opcionPrincipal = "1" Then
+                                formaPago = 0.01
+                                tipoPago = "Targeta de Credito"
+                            ElseIf opcionPrincipal = "2" Then
+                                formaPago = 0.00
+                                tipoPago = "Dinero Efectivo"
+                            ElseIf opcionPrincipal = "3" Then
+                                formaPago = 0.04
+                                tipoPago = "Dinero Electronico"
+                            End If
+                            Guardar(iva, formaPago, tipoPago)
+
+                        End If
+
+                        flag = True
+                        Exit For
                     End If
-                    'salir() 'antepenultima
-                    '                                                                   AQUI
-                    flag = True
-                    Exit For
-                End If
             Next
             If flag = True Then
                 Exit For
@@ -335,11 +331,17 @@ Module Module1
             nada = Console.ReadLine
 
             IngresoDatosCompra()
-            'antepenultima
             Console.ReadLine()
         End If
     End Sub
 
+    Function VerificarSiPagaIva(pagaIva As Integer)
+        If (pagaIva = 0) Then
+
+            iva = 0
+        End If
+        Return iva
+    End Function
 
     Sub IngresoDatosCliente()
         Console.WriteLine("Ingrese el nombre y apellido del cliente: ")
@@ -532,15 +534,8 @@ Module Module1
             '    'Console.ReadLine()
             'End If
 
-
-
-
-
-
         Loop Until Not (numf >= 1 And numf <= 100) 'And Not numf = " "
     End Sub
-
-
 
     Sub masDatos(boo)
         Do
@@ -554,15 +549,9 @@ Module Module1
                 IngresoDatosCompra()
                 Console.WriteLine("Desea seguir comprando? s/n")
                 boo = Console.ReadLine
-                'salir()
-
 
             End If
             If boo = "n" Or boo = "N" Then
-                'factura = New Factura(libreria.Item(0))
-                'nada = Console.ReadLine
-                'salirrr = False
-                'Console.Clear()
                 End
             End If
         Loop While (boo = "s" Or boo = "S") Or (Not (boo = "n" Or boo = "N" Or boo = "s" Or boo = "S"))
@@ -572,27 +561,12 @@ Module Module1
         Console.Clear()
 
         Console.WriteLine(vbTab & vbTab & vbTab & "FACTURA")
-            factura.ImprimirFactura() '                                              AQUI
-            Console.WriteLine("GRACIAS")
-            nada = Console.ReadLine
+        factura.ImprimirFactura() '                                              AQUI
+        Console.WriteLine("GRACIAS")
+        nada = Console.ReadLine
         End
 
     End Sub
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     Private Sub Guardar(iva As Double, formaPago As Double, tipoPago As String)
         Dim facturaG As XmlElement = xmlDoc.CreateElement("factura")
@@ -680,6 +654,9 @@ Module Module1
         devolucionImp = totalPagar * formaPago
         devolucionG.InnerText = CStr(devolucionImp)
         facturaG.AppendChild(devolucionG)
+        'Dim pagaIvaG As XmlElement = xmlDoc.CreateElement("pagaIva")
+        'pagaIvaG.InnerText = ""
+        'facturaG.AppendChild(pagaIvaG)
         Guardar(facturaG)
     End Sub
 

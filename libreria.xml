@@ -1,94 +1,234 @@
 <?xml version="1.0"?>
 <facturas>
-	<factura>
-		<facturaNum>1</facturaNum>
-		<razonSocial>LibriMundi</razonSocial>
-		<ruc>1791397339001</ruc>
-		<direccion>Av. Francisco de Orellana s/n y Av. Plaza Dañin</direccion>
-		<telefono>2083202</telefono>
-		<provincia>Guayas</provincia>
-		<encabezadoFactura>
-			<cliente>Maria Baque</cliente>
-			<rucCliente>0992221218</rucCliente>
-			<direccionCliente>Los Esteros</direccionCliente>
-		</encabezadoFactura>
-		<tipoPago>Tarjeta de Credito</tipoPago>
-		<fecha>29/06/2016</fecha>
-		<detalles>
-			<detalleFactura>
-				<codigo>978-84-9794-224-9</codigo>
-				<descripcion>Orgullo y Prejuicio</descripcion>
-				<cantidad>1</cantidad>
-				<precio>4,90</precio>
-				<precioTotal>4,90</precioTotal>
-			</detalleFactura>
-		</detalles>
-		<subtotal>4,90</subtotal>
-		<iva>0,14</iva>
-		<totalPagar>5,59</totalPagar>
-		<devolucion>0,05</devolucion>
-	</factura>
-	<factura>
-		<facturaNum>2</facturaNum>
-		<razonSocial>LibriMundi</razonSocial>
-		<ruc>1791397339001</ruc>
-		<direccion>Av. Francisco de Orellana s/n y Av. Plaza Dañin</direccion>
-		<telefono>2083202</telefono>
-		<provincia>Manabi</provincia>
-		<encabezadoFactura>
-			<cliente>Maria Bohorquez</cliente>
-			<rucCliente>0907018972</rucCliente>
-			<direccionCliente>Sauces 3 Mz.156 V.30</direccionCliente>
-		</encabezadoFactura>
-		<tipoPago>Dinero Electronico</tipoPago>
-		<fecha>29/06/2016</fecha>
-		<detalles>
-			<detalleFactura>
-				<codigo>978-9978-80-875-7</codigo>
-				<descripcion>Marianela</descripcion>
-				<cantidad>2</cantidad>
-				<precio>5,00</precio>
-				<precioTotal>10,00</precioTotal>
-			</detalleFactura>
-			<detalleFactura>
-				<codigo>978-950-49-1523-2</codigo>
-				<descripcion>La Quinta Montaña</descripcion>
-				<cantidad>1</cantidad>
-				<precio>13,50</precio>
-				<precioTotal>13,50</precioTotal>
-			</detalleFactura>
-		</detalles>
-		<subtotal>23,50</subtotal>
-		<iva>0,12</iva>
-		<totalPagar>26,32</totalPagar>
-		<devolucion>1,05</devolucion>
-	</factura>
-	<factura>
-		<facturaNum>3</facturaNum>
-		<razonSocial>LibriMundi</razonSocial>
-		<ruc>1791397339001</ruc>
-		<direccion>Av. Francisco de Orellana s/n y Av. Plaza Dañin</direccion>
-		<telefono>2083202</telefono>
-		<provincia>Esmeraldas</provincia>
-		<encabezadoFactura>
-			<cliente>Isabel Leon</cliente>
-			<rucCliente>0916328966</rucCliente>
-			<direccionCliente>Sauces 3 Mz.156 V.30</direccionCliente>
-		</encabezadoFactura>
-		<tipoPago>Efectivo</tipoPago>
-		<fecha>29/06/2016</fecha>
-		<detalles>
-			<detalleFactura>
-				<codigo>978-607-312-572-7</codigo>
-				<descripcion>El Murmullo de las Abejas</descripcion>
-				<cantidad>1</cantidad>
-				<precio>24,50</precio>
-				<precioTotal>24,50</precioTotal>
-			</detalleFactura>
-		</detalles>
-		<subtotal>24,50</subtotal>
-		<iva>0,12</iva>
-		<totalPagar>27,44</totalPagar>
-		<devolucion>1,25</devolucion>
-	</factura>
+  <factura>
+    <facturaNum>1</facturaNum>
+    <razonSocial>LibriMundi</razonSocial>
+    <ruc>1791397339001</ruc>
+    <direccion>Av. Francisco de Orellana s/n y Av. Plaza Dañin</direccion>
+    <telefono>2083202</telefono>
+    <provincia>Guayas</provincia>
+    <encabezadoFactura>
+      <cliente>Maria Baque</cliente>
+      <rucCliente>0992221218</rucCliente>
+      <direccionCliente>Los Esteros</direccionCliente>
+    </encabezadoFactura>
+    <tipoPago>Tarjeta de Credito</tipoPago>
+    <fecha>29/06/2016</fecha>
+    <detalles>
+      <detalleFactura>
+        <codigo>978-84-9794-224-9</codigo>
+        <descripcion>Orgullo y Prejuicio</descripcion>
+        <cantidad>1</cantidad>
+        <precio>4,90</precio>
+        <precioTotal>4,90</precioTotal>
+      </detalleFactura>
+    </detalles>
+    <subtotal>4,90</subtotal>
+    <iva>0,14</iva>
+    <totalPagar>5,59</totalPagar>
+    <devolucion>0,05</devolucion>
+  </factura>
+  <factura>
+    <facturaNum>2</facturaNum>
+    <razonSocial>LibriMundi</razonSocial>
+    <ruc>1791397339001</ruc>
+    <direccion>Av. Francisco de Orellana s/n y Av. Plaza Dañin</direccion>
+    <telefono>2083202</telefono>
+    <provincia>Manabi</provincia>
+    <encabezadoFactura>
+      <cliente>Maria Bohorquez</cliente>
+      <rucCliente>0907018972</rucCliente>
+      <direccionCliente>Sauces 3 Mz.156 V.30</direccionCliente>
+    </encabezadoFactura>
+    <tipoPago>Dinero Electronico</tipoPago>
+    <fecha>29/06/2016</fecha>
+    <detalles>
+      <detalleFactura>
+        <codigo>978-9978-80-875-7</codigo>
+        <descripcion>Marianela</descripcion>
+        <cantidad>2</cantidad>
+        <precio>5,00</precio>
+        <precioTotal>10,00</precioTotal>
+      </detalleFactura>
+      <detalleFactura>
+        <codigo>978-950-49-1523-2</codigo>
+        <descripcion>La Quinta Montaña</descripcion>
+        <cantidad>1</cantidad>
+        <precio>13,50</precio>
+        <precioTotal>13,50</precioTotal>
+      </detalleFactura>
+    </detalles>
+    <subtotal>23,50</subtotal>
+    <iva>0,12</iva>
+    <totalPagar>26,32</totalPagar>
+    <devolucion>1,05</devolucion>
+  </factura>
+  <factura>
+    <facturaNum>3</facturaNum>
+    <razonSocial>LibriMundi</razonSocial>
+    <ruc>1791397339001</ruc>
+    <direccion>Av. Francisco de Orellana s/n y Av. Plaza Dañin</direccion>
+    <telefono>2083202</telefono>
+    <provincia>Esmeraldas</provincia>
+    <encabezadoFactura>
+      <cliente>Isabel Leon</cliente>
+      <rucCliente>0916328966</rucCliente>
+      <direccionCliente>Sauces 3 Mz.156 V.30</direccionCliente>
+    </encabezadoFactura>
+    <tipoPago>Efectivo</tipoPago>
+    <fecha>29/06/2016</fecha>
+    <detalles>
+      <detalleFactura>
+        <codigo>978-607-312-572-7</codigo>
+        <descripcion>El Murmullo de las Abejas</descripcion>
+        <cantidad>1</cantidad>
+        <precio>24,50</precio>
+        <precioTotal>24,50</precioTotal>
+      </detalleFactura>
+    </detalles>
+    <subtotal>24,50</subtotal>
+    <iva>0,12</iva>
+    <totalPagar>27,44</totalPagar>
+    <devolucion>1,25</devolucion>
+  </factura>
+  <factura>
+    <facturaNum>4</facturaNum>
+    <razonSocial>LibriMundi</razonSocial>
+    <ruc>1791397339001</ruc>
+    <direccion>Av. Francisco de Orellana s/n y Av. Plaza Dañin</direccion>
+    <telefono>2083202</telefono>
+    <provincia>esmeraldas</provincia>
+    <encabezadoFactura>
+      <cliente>Marcela</cliente>
+      <rucCliente>1234567890</rucCliente>
+      <direccionCliente>Los rios</direccionCliente>
+    </encabezadoFactura>
+    <tipoPago>Targeta de Credito</tipoPago>
+    <fecha>09/06/2016</fecha>
+    <detalles>
+      <detalleFactura>
+        <codigo>978-9978-80-895-9</codigo>
+        <descripcion>Cumanda</descripcion>
+        <cantidad>3</cantidad>
+        <precio>530</precio>
+        <precioTotal>1590</precioTotal>
+      </detalleFactura>
+    </detalles>
+    <subtotal>1590</subtotal>
+    <iva>0,12</iva>
+    <totalPagar>1780,8</totalPagar>
+    <devolucion>17,808</devolucion>
+  </factura>
+  <factura>
+    <facturaNum>5</facturaNum>
+    <razonSocial>LibriMundi</razonSocial>
+    <ruc>1791397339001</ruc>
+    <direccion>Av. Francisco de Orellana s/n y Av. Plaza Dañin</direccion>
+    <telefono>2083202</telefono>
+    <provincia>guayaquil</provincia>
+    <encabezadoFactura>
+      <cliente>Rocio</cliente>
+      <rucCliente>0123456789</rucCliente>
+      <direccionCliente>Rios</direccionCliente>
+    </encabezadoFactura>
+    <tipoPago>Targeta de Credito</tipoPago>
+    <fecha>03/06/2016</fecha>
+    <detalles>
+      <detalleFactura>
+        <codigo>978-9978-80-895-9</codigo>
+        <descripcion>Cumanda</descripcion>
+        <cantidad>2</cantidad>
+        <precio>530</precio>
+        <precioTotal>1060</precioTotal>
+      </detalleFactura>
+    </detalles>
+    <subtotal>1060</subtotal>
+    <iva>0,14</iva>
+    <totalPagar>1208,4</totalPagar>
+    <devolucion>12,084</devolucion>
+  </factura>
+  <factura>
+    <facturaNum>6</facturaNum>
+    <razonSocial>LibriMundi</razonSocial>
+    <ruc>1791397339001</ruc>
+    <direccion>Av. Francisco de Orellana s/n y Av. Plaza Dañin</direccion>
+    <telefono>2083202</telefono>
+    <provincia>Manabi</provincia>
+    <encabezadoFactura>
+      <cliente>Carla</cliente>
+      <rucCliente>0123456789</rucCliente>
+      <direccionCliente>esteros</direccionCliente>
+    </encabezadoFactura>
+    <tipoPago>Targeta de Credito</tipoPago>
+    <fecha>06/08/2016</fecha>
+    <detalles>
+      <detalleFactura>
+        <codigo>978-9978-80-875-7</codigo>
+        <descripcion>Marianela</descripcion>
+        <cantidad>2</cantidad>
+        <precio>500</precio>
+        <precioTotal>1000</precioTotal>
+      </detalleFactura>
+    </detalles>
+    <subtotal>1000</subtotal>
+    <iva>0</iva>
+    <totalPagar>1000</totalPagar>
+    <devolucion>10</devolucion>
+  </factura>
+  <factura>
+    <facturaNum>7</facturaNum>
+    <razonSocial>LibriMundi</razonSocial>
+    <ruc>1791397339001</ruc>
+    <direccion>Av. Francisco de Orellana s/n y Av. Plaza Dañin</direccion>
+    <telefono>2083202</telefono>
+    <provincia>Esmeraldas</provincia>
+    <encabezadoFactura>
+      <cliente>Mercedes</cliente>
+      <rucCliente>0231456789</rucCliente>
+      <direccionCliente>Cuva</direccionCliente>
+    </encabezadoFactura>
+    <tipoPago>Targeta de Credito</tipoPago>
+    <fecha>60/09/2016</fecha>
+    <detalles>
+      <detalleFactura>
+        <codigo>978-9978-80-875-7</codigo>
+        <descripcion>Marianela</descripcion>
+        <cantidad>2</cantidad>
+        <precio>500</precio>
+        <precioTotal>1000</precioTotal>
+      </detalleFactura>
+    </detalles>
+    <subtotal>1000</subtotal>
+    <iva>0</iva>
+    <totalPagar>1000</totalPagar>
+    <devolucion>10</devolucion>
+  </factura>
+  <factura>
+    <facturaNum>8</facturaNum>
+    <razonSocial>LibriMundi</razonSocial>
+    <ruc>1791397339001</ruc>
+    <direccion>Av. Francisco de Orellana s/n y Av. Plaza Dañin</direccion>
+    <telefono>2083202</telefono>
+    <provincia>esmeraldas</provincia>
+    <encabezadoFactura>
+      <cliente>d</cliente>
+      <rucCliente>asd</rucCliente>
+      <direccionCliente>df</direccionCliente>
+    </encabezadoFactura>
+    <tipoPago>Dinero Efectivo</tipoPago>
+    <fecha>df</fecha>
+    <detalles>
+      <detalleFactura>
+        <codigo>978-9978-80-895-9</codigo>
+        <descripcion>Cumanda</descripcion>
+        <cantidad>4</cantidad>
+        <precio>530</precio>
+        <precioTotal>2120</precioTotal>
+      </detalleFactura>
+    </detalles>
+    <subtotal>2120</subtotal>
+    <iva>0,12</iva>
+    <totalPagar>2374,4</totalPagar>
+    <devolucion>0</devolucion>
+  </factura>
 </facturas>
