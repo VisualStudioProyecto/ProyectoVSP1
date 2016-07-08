@@ -1,0 +1,27 @@
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe.config
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.pdb
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.xml
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.Resources.resources
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.vbproj.GenerateResource.Cache
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.exe
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.xml
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.pdb
+F:\Programacion Visual\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe.config
+F:\Programacion Visual\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.exe
+F:\Programacion Visual\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.xml
+F:\Programacion Visual\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.pdb
+C:\Users\Isabel\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe.config
+C:\Users\Isabel\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.exe
+C:\Users\Isabel\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.xml
+C:\Users\Isabel\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.pdb
+C:\Users\Isabel\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe
+C:\Users\Isabel\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.pdb
+C:\Users\Isabel\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.xml
+C:\Users\Isabel\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.Resources.resources
+C:\Users\Isabel\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.vbproj.GenerateResource.Cache
+F:\Programacion Visual\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe
+F:\Programacion Visual\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.pdb
+F:\Programacion Visual\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.xml
+F:\Programacion Visual\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.Resources.resources
+F:\Programacion Visual\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.vbproj.GenerateResource.Cache

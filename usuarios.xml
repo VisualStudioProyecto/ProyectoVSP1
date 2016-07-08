@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<usuarios>
+	<administradores>
+		<administrador>
+			<usuario>admin</usuario>
+			<password>1234</password>
+		</administrador>
+		<administrador>
+			<usuario>isabel</usuario>
+			<password>1234</password>
+		</administrador>
+	</administradores>
+	<vendedores>
+		<vendedor>
+			<usuario>vendedor</usuario>
+			<password>5678</password>
+		</vendedor>
+		<vendedor>
+			<usuario>sofia</usuario>
+			<password>5678</password>
+		</vendedor>
+	</vendedores>
+</usuarios>
