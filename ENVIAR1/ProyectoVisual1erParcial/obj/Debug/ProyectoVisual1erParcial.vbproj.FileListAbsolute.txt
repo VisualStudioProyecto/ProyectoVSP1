@@ -47,3 +47,7 @@ C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR1\ProyectoVisual
 C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.vbprojResolveAssemblyReference.cache
 C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.Resources.resources
 C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.vbproj.GenerateResource.Cache
+C:\Users\ESTUDIANTE\Desktop\Sustentacion\mbaque\ENVIAR1\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe.config
+C:\Users\ESTUDIANTE\Desktop\Sustentacion\mbaque\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.exe
+C:\Users\ESTUDIANTE\Desktop\Sustentacion\mbaque\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.xml
+C:\Users\ESTUDIANTE\Desktop\Sustentacion\mbaque\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.pdb

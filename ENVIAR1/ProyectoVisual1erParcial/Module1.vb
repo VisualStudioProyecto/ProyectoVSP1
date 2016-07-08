@@ -18,6 +18,7 @@ Module Module1
     Dim arregloDetalle2 As ArrayList = New ArrayList
 
 
+
     Dim xmlDoc As XmlDocument = New XmlDocument
     Dim libreria As XmlNodeList
     Dim libra As XmlDocument
