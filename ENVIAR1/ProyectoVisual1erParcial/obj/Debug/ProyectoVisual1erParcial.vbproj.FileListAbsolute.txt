@@ -1,0 +1,49 @@
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe.config
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.pdb
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.xml
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.Resources.resources
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.vbproj.GenerateResource.Cache
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.exe
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.xml
+c:\users\isabel\documents\visual studio 2013\Projects\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.pdb
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe.config
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.exe
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.xml
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.pdb
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.pdb
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.xml
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.vbprojResolveAssemblyReference.cache
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.Resources.resources
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.vbproj.GenerateResource.Cache
+C:\Users\CltControl.WRKS126-203FIEC\Downloads\Nueva carpeta\ENVIAR\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe.config
+C:\Users\CltControl.WRKS126-203FIEC\Downloads\Nueva carpeta\ENVIAR\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.exe
+C:\Users\CltControl.WRKS126-203FIEC\Downloads\Nueva carpeta\ENVIAR\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.xml
+C:\Users\CltControl.WRKS126-203FIEC\Downloads\Nueva carpeta\ENVIAR\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.pdb
+C:\Users\CltControl.WRKS126-203FIEC\Downloads\Nueva carpeta\ENVIAR\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe
+C:\Users\CltControl.WRKS126-203FIEC\Downloads\Nueva carpeta\ENVIAR\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.pdb
+C:\Users\CltControl.WRKS126-203FIEC\Downloads\Nueva carpeta\ENVIAR\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.xml
+C:\Users\CltControl.WRKS126-203FIEC\Downloads\Nueva carpeta\ENVIAR\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.vbprojResolveAssemblyReference.cache
+C:\Users\CltControl.WRKS126-203FIEC\Downloads\Nueva carpeta\ENVIAR\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.Resources.resources
+C:\Users\CltControl.WRKS126-203FIEC\Downloads\Nueva carpeta\ENVIAR\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.vbproj.GenerateResource.Cache
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe.config
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.exe
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.xml
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.pdb
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.pdb
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.xml
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.vbprojResolveAssemblyReference.cache
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.Resources.resources
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.vbproj.GenerateResource.Cache
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR1\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe.config
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.exe
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.xml
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.pdb
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR1\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.exe
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR1\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.pdb
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR1\ProyectoVisual1erParcial\bin\Debug\ProyectoVisual1erParcial.xml
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.vbprojResolveAssemblyReference.cache
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.Resources.resources
+C:\Users\Baque_Leon\Desktop\ProyectoVisual1erParcial\Luis\ENVIAR1\ProyectoVisual1erParcial\obj\Debug\ProyectoVisual1erParcial.vbproj.GenerateResource.Cache

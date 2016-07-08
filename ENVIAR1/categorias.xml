@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<collection shelf="categorias">
+	<categoria name="Narrativas Ecuatorianas">
+		<libro>
+			<titulo>Marianela</titulo>
+			<autor>Benito Perez Galdos</autor>
+			<isbn>978-9978-80-875-7</isbn>
+			<editorial>Libresa</editorial>
+			<genero>romantico</genero>
+			<precio>5.00</precio>
+		</libro>
+		<libro>
+			<titulo>Cumanda</titulo>
+			<autor>Juan Leon Mera</autor>
+			<isbn>978-9978-80-895-9</isbn>
+			<editorial>Libresa</editorial>
+			<genero>Historico</genero>
+			<precio>5.30</precio>
+		</libro>
+		<libro>
+			<titulo>Juyungo</titulo>
+			<autor>Adalberto Ortiz</autor>
+			<isbn>972-9938-80-075-7</isbn>
+			<editorial>Libresa</editorial>
+			<genero>Tragedia</genero>
+			<precio>4.00</precio>
+		</libro>	
+	</categoria>
+	<categoria name="Clasicos">
+		<libro>
+			<titulo>Orgullo y Prejuicio</titulo>
+			<autor>Jane Austen</autor>
+			<isbn>978-84-9794-224-9</isbn>
+			<editorial>Edimat</editorial>
+			<genero>Novela costumbrista, Satira</genero>
+			<precio>4.90</precio>
+		</libro>
+		<libro>
+			<titulo>Moby Dick</titulo>
+			<autor>Herman Melville</autor>
+			<isbn>978-84-9786-617-0</isbn>
+			<editorial>Estudio Didactico</editorial>
+			<genero>Novela de aventuras, Epica, Historia de mar</genero>
+			<precio>4.60</precio>
+		</libro>
+		<libro>
+			<titulo>La Dama de las Camelias</titulo>
+			<autor>Alejandro Dumas (Hijo)</autor>
+			<isbn>978-84-99764-918-6</isbn>
+			<editorial>Edimat</editorial>
+			<genero>Novela Historica, Romantica</genero>
+			<precio>4.50</precio>
+		</libro>
+	</categoria>
+	<categoria name="Jovenes Lectores">
+		<libro>
+			<titulo>La Quinta Montaña</titulo>
+			<autor>Paulo Coelho</autor>
+			<isbn>978-950-49-1523-2</isbn>
+			<editorial>Planeta</editorial>
+			<genero>Novela, Superacion</genero>
+			<precio>13.50</precio>
+		</libro>
+		<libro>
+			<titulo>Y las Montañas Hablaron</titulo>
+			<autor>Khaled Hosseini</autor>
+			<isbn>978-84-9838-544-1</isbn>
+			<editorial>Salamandra</editorial>
+			<genero>Ficción histórica, Drama</genero>
+			<precio>23.50</precio>
+		</libro>
+		<libro>
+			<titulo>El Murmullo de las Abejas</titulo>
+			<autor>Sofia Segovia</autor>
+			<isbn>978-607-312-572-7</isbn>
+			<editorial>Lumen</editorial>
+			<genero>Novela</genero>
+			<precio>24.50</precio>
+		</libro>
+	</categoria>
+</collection>
